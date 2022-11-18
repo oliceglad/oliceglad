@@ -12,18 +12,11 @@
   </a>
 </div>
 
----
-
 ### :metal: About Me :
-<p>
-  <ul>
-    <li>
-      Finalist Leaders of digital information 2022
-    </li>
-  </ul>
-</p>
+  <p align="center">
+    :heart_eyes: Finalist Leaders of digital information 2022
+  </p>
 
----
 
 ### :fire: My Stats :
 
