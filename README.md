@@ -14,6 +14,17 @@
 
 ---
 
+### :metal: About Me :
+<p>
+  <ul>
+    <li>
+      Finalist Leaders of digital information 2022
+    </li>
+  </ul>
+</p>
+
+---
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliceglad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
